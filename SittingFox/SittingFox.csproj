@@ -22,9 +22,4 @@
         </None>
     </ItemGroup>
 
-
-    <ItemGroup>
-        <Folder Include="Modules\RankUp\Commands\"/>
-    </ItemGroup>
-
 </Project>

@@ -1,5 +1,5 @@
 namespace SittingFox.Modules.RankUp;
 
-public class RankUp : FoxModule
+public class RankUp(DiscordSocketClient client) : FoxModule(client)
 {
 }
